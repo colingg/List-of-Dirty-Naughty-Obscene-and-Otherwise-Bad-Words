@@ -15,12 +15,14 @@ chuj
 jebat
 kokot
 kokotina
+koňomrd
 kunda
 kurva
 mamrd
 mrdat
 mrdka
 mrdník
+oslošoust
 piča
 píčus
 píchat
@@ -32,6 +34,7 @@ sračka
 srát
 šoustat
 šulin
+vypíčenec
 zkurvit
 zkurvysyn
 zmrd
