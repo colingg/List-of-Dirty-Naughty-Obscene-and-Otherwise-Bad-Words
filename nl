@@ -1,4 +1,4 @@
-aardappels afgieteng
+aardappels afgieten
 achter het raam zitten
 afberen
 aflebberen
@@ -8,14 +8,16 @@ aftrekken
 afwerkplaats
 afzeiken
 afzuigen
+anaal
+anaalridder
+anaalgeneraal
 anderhalve man en een paardekop
-anita
 asbak
 aso
 bagger schijten
 balen
 bedonderen
-befborstelg
+befborstel
 beffen
 bekken
 belazeren
@@ -28,7 +30,7 @@ boerenpummelg
 bokkelul
 botergeil
 broekhoesten
-brugpieperg
+brugpieper
 buffelen
 buiten de pot piesen
 da's kloten van de bok
@@ -36,13 +38,13 @@ de ballen
 de hoer spelen
 de hond uitlaten
 de koffer induiken
-delg
+del
 de pijp aan maarten geven
 de pijp uitgaan
 dombo
-draaikontg
+draaikont
 driehoog achter wonen
-drolg
+drol
 drooggeiler
 droogkloot
 een beurt geven
@@ -60,6 +62,7 @@ gedoogzone
 geilneef
 gesodemieter
 godverdomme
+godverdorie
 graftak
 gras maaien
 gratenkutg
@@ -75,7 +78,11 @@ hufter
 huisdealer
 johny
 kanen
-kettingzeugg
+kanker
+kankerlijer
+kankerjong
+kankerhoer
+kettingzeug
 klaarkomen
 klerebeer
 klojo
@@ -85,22 +92,24 @@ klootoog
 klootzak
 kloten
 knor
-kontg
+kont
+kontebonker
 kontneuken
 krentekakker
+kringspierbrigadier
 kut
 kuttelikkertje
-kwakkieg
+kwakkie
 liefdesgrot
 lul
 lul-de-behanger
 lulhannes
 lummel
 mafketel
-matennaaierg
+matennaaier
 matje
 mof
-mutsg
+muts
 naaien
 naakt
 neuken
@@ -117,15 +126,16 @@ opzouten
 ouwehoer
 ouwehoeren
 ouwe rukker
-paal
+palen
 paardelul
+paardepijper
 palen
 penozeg
 piesen
-pijpbekkieg
+pijpbekkie
 pijpen
 pik
-pleurislaaier
+pleurislijer
 poep
 poepen
 poot
@@ -137,37 +147,39 @@ raaskallen
 reet
 reetridder
 reet trappen, voor zijn
-remsporeng
+remsporen
 reutelen
 rothoer
 rotzak
 rukhond
 rukken
 schatje
+schavuit
 schijt
 schijten
+schijtjong
 schoft
 schuinsmarcheerder
 shit
 slempen
-sletg
+slet
 sletterig
 slik mijn zaad
-snolg
+snol
 spuiten
 standje
-standje-69g
+standje-69
 stoephoer
 stootje
-strontg
-sufferdg
+stront
+sufferd
 tapijtnek
 teefg
 temeier
 teringlijer
 toeter
-tongzoeng
-triootjeg
+tongzoen
+triootje
 trottoir prostituée
 trottoirteef
 vergallen
