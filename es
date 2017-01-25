@@ -2,55 +2,108 @@
 asno
 bastardo
 Bollera
+bollera		
 Cabron
 Cabrón
+cabron		
+cabrón		
+cabrona		
+cabronazo	
 Caca
+capulla		
+capullo		
+chichi		
+chocho		
 Chupada
 Chupapollas
 Chupetón
+cojon		
+cojón		
+cojones		
+comepollas	
 concha
 Concha de tu madre
 Coño
+cono			
+coño			
 Coprofagía
 Culo
+culo			
 Drogas
 Esperma
 Fiesta de salchichas
 Follador
 Follar
+follar		
+follen		
+furcia		
 Gilipichis
 Gilipollas
+gilipollas	
 Hacer una paja
 Haciendo el amor
 Heroína
 Hija de puta
 Hijaputa
+hijaputa		
 Hijo de puta
+hijo puta	
 Hijoputa
+hijoputa		
+hostia		
 Idiota
 Imbécil
 infierno
 Jilipollas
+joder		
+jodete		
+jódete		
+joputa		
 Kapullo
 Lameculos
 Maciza
 Macizorra
 maldito
 Mamada
+mamada		
+mamon		
+mamón		
+mamona		
 Marica
+marica		
 Maricón
+maricon		
+maricón		
+maricona		
 Mariconazo
+mariconazo	
 martillo
 Mierda
 Nazi
+nazi			
+ojete		
 Orina
+ostia		
+pajillero	
 Pedo
+pendon		
+pendón		
 Pervertido
 Pezón
+picha		
 Pinche
 Pis
+polla		
+pollon		
+pollón		
+polvo		
+potorro		
 Prostituta
 Puta
+puta			
+puto			
+puton		
+putón		
 Racista
 Ramera
 Sádico
@@ -61,8 +114,11 @@ Soplagaitas
 Soplapollas
 Tetas grandes
 Tía buena
+tortillera	
 Travesti
 Trio
 Verga
 vete a la mierda
 Vulva
+zorron		
+zorrón		
