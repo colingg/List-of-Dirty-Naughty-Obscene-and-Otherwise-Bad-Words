@@ -1,4 +1,4 @@
-bychara
+﻿bychara
 byk
 chernozhopyi
 dolboy'eb
@@ -19,6 +19,7 @@ pedik
 perdet
 petuh
 pidar gnoinyj
+piz`dyulina
 pizda
 pizdato
 pizdatyi
@@ -26,12 +27,11 @@ piz'det
 pizdetc
 pizdoi nakryt'sja
 pizd'uk
-piz`dyulina
+po khuy
 podi ku'evo
 poeben
 po'imat' na konchik
 po'iti posrat
-po khuy
 poluchit pizdy
 pososi moyu konfetku
 prissat
@@ -54,9 +54,9 @@ trimandoblydskiy pizdoproyob
 ubl'yudok
 uboy
 u'ebitsche
+v pizdu
 vafl'a
 vafli lovit
-v pizdu
 vyperdysh
 vzdrochennyi
 yeb vas
@@ -85,19 +85,19 @@ zlo'ebuchy
 дерьмо
 дрочить
 другой дразнится
+ёб твою мать
 ёбарь
 ебать
 ебать-копать
 ебло
 ебнуть
-ёб твою мать
 жопа
 жополиз
 играть на кожаной флейте
 измудохать
 каждый дрочит как он хочет
-какая разница
 как два пальца обоссать
+какая разница
 курите мою трубку
 лысого в кулаке гонять
 малофя
@@ -107,16 +107,16 @@ zlo'ebuchy
 муда
 мудило
 мудозмон
-наебать
-наебениться
-наебнуться
 на фиг
 на хуй
 на хую вертеть
 на хуя
+наебать
+наебениться
+наебнуться
 нахуячиться
-невебенный
 не ебет
+невебенный
 ни за хуй собачу
 ни хуя
 обнаженный
@@ -144,9 +144,9 @@ zlo'ebuchy
 хуёвый
 хуем груши околачивать
 хуеплет
+хуй
+хуй пинать
 хуило
 хуиней страдать
-хуиня
-хуй
 хуйнуть
-хуй пинать
+хуиня

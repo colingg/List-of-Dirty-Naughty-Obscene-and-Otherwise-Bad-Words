@@ -1,4 +1,4 @@
-burdel
+﻿burdel
 burdelmama
 chuj
 chujnia
@@ -16,11 +16,11 @@ fiut
 gówno
 gówno prawda
 huj
+ja pierdolę
 jajco
 jajeczko
 jajko
 jajo
-ja pierdolę
 jebać
 jebany
 kurwa
@@ -32,10 +32,10 @@ obciągać chuja
 obciągać fiuta
 obciągać loda
 pieprzyć
+pierdoła
 pierdolec
 pierdolić
 pierdolnięty
-pierdoła
 pierdzieć
 pizda
 pojeb
@@ -45,8 +45,8 @@ robić loda
 ruchać
 rzygać
 skurwysyn
-sraczka
 srać
+sraczka
 suka
 syf
 wkurwiać

@@ -1,4 +1,4 @@
-Asesinato
+﻿Asesinato
 asno
 bastardo
 Bollera

@@ -1,4 +1,4 @@
-aardappels afgieten
+﻿aardappels afgieten
 achter het raam zitten
 afberen
 aflebberen
@@ -9,8 +9,8 @@ afwerkplaats
 afzeiken
 afzuigen
 anaal
-anaalridder
 anaalgeneraal
+anaalridder
 anderhalve man en een paardekop
 asbak
 aso
@@ -38,9 +38,9 @@ de ballen
 de hoer spelen
 de hond uitlaten
 de koffer induiken
-del
 de pijp aan maarten geven
 de pijp uitgaan
+del
 dombo
 draaikont
 driehoog achter wonen
@@ -79,9 +79,9 @@ huisdealer
 johny
 kanen
 kanker
-kankerlijer
-kankerjong
 kankerhoer
+kankerjong
+kankerlijer
 kettingzeug
 klaarkomen
 klerebeer
@@ -116,17 +116,16 @@ neuken
 neukstier
 nicht
 oetlul
+op z'n hondjes
+op z'n sodemieter geven
 opgeilen
 opkankeren
 oprotten
 opsodemieteren
-op z'n hondjes
-op z'n sodemieter geven
 opzouten
+ouwe rukker
 ouwehoer
 ouwehoeren
-ouwe rukker
-palen
 paardelul
 paardepijper
 palen
@@ -145,8 +144,8 @@ potverdorie
 publiciteitsgeil
 raaskallen
 reet
-reetridder
 reet trappen, voor zijn
+reetridder
 remsporen
 reutelen
 rothoer
